@@ -1,0 +1,2 @@
+# Aftermath
+Aftermath is a competitive GameFi project implements in the Near blockchain. The concept of the project is simple, the creation of our own launcher, with integrated mods, the creation of our own infrastructure (servers for ranked, leagues, builds), the creation of a marketplace with certified artists for maps and cosmetics. The project aims to be in partnership with important actors of the PVP and competitive Minecraft community, as well as cryptocurrency actors. Infernal want to be pioneers in linking competition and cryptocurrency on Minecraft.
